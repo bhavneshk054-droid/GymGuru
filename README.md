@@ -1,1 +1,1 @@
-# Django-web
+# GymGuru
